@@ -1,0 +1,7 @@
+Sentiment Analysis Research Papers
+
+• Opinion mining and sentiment analysis (Pang and Lee, 2008) http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf
+• Recognizing contextual polarity in phrase-level sentiment analysis (Wilson, Wiebe and Hoffmann, 2005). http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf
+• Sentiment analysis and subjectivity (Liu, 2010) ftp://nozdr.ru/biblio/kolxo3/Cs/CsNl/Indurkhya%20N.,%20Damerau%20F.J.%20(eds.)%20Handbook%20of%20natural%20language%20processing%20(2ed.,%20CRC,%202010)(ISBN%209781420085921)(O)(692s)_CsNl_.pdf#page=653
+• A survey of opinion mining and sentiment analysis (Liu and Zhang, 2012) http://www.cs.unibo.it/~montesi/CBD/Articoli/SurveyOpinionMining.pdf
+• Sentiment analysis and opinion mining (Liu, 2012) http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.244.9480&rep=rep1&type=pdf
