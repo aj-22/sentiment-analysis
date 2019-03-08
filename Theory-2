@@ -1,0 +1,17 @@
+Sentiment Analysis Metrics and Evaluation
+	- Performance Metric: Cross Validation
+Precision, Recall and Accuracy
+	- Precision measures how many texts were predicted correctly as belonging to a given category out of all of the texts that were predicted (correctly and incorrectly) as belonging to the category.
+	- Recall measures how many texts were predicted correctly as belonging to a given category out of all the texts that should have been predicted as belonging to the category. We also know that the more data we feed our classifiers with, the better recall will be.
+	- Accuracy measures how many texts were predicted correctly (both as belonging to a category and not belonging to the category) out of all of the texts in the corpus.
+
+Inter-Annotator Agreement
+	- Krippendorff’s Alpha 
+
+Sentiment Analysis Challenges
+	- Subjectivity and Tone: The detection of subjective and objective texts is just as important as analyzing their tone.
+	- Context and Polarity: One of the problems that arise from context is changes in polarity
+	- Irony and Sarcasm: Differences between literal and intended meaning (i.e. irony) and the more insulting or ridiculizing version of irony (i.e. sarcasm) usually change positive sentiment into negative whereas negative or neutral sentiment might be changed to positive. 
+	- Comparisons: 
+	- Emojis: 
+Defining Neutral: Challenging when it comes to defining  Objective texts, Irrelevant Information or Text Containing Wishes
