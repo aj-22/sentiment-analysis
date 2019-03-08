@@ -1,0 +1,52 @@
+Borrowed from MonkeyLearn.com
+
+Sentiment Analysis - Introduction
+SA = Opinion Mining (NLP)
+Extract attributes such as Polarity (+ve/-ve), Subject (topic), Opinion Holder
+Applications/Use cases of SA
+	• Social media monitoring
+	• Brand monitoring
+	• Voice of customer (VoC)
+	• Customer service
+	• Workforce analytics and voice of employee
+	• Product analytics
+	• Market research and analysis
+
+What is Opinion?
+	- Sentences can be subjective or objective. Opinions are subjective.
+	- Sentiment Analysis requires Subjectivity Classification (subjective or objective)
+	- Polarity Classification (positive, negative or neutral opinion)
+In an opinion, an entity talks about an object, its components, its aspects, its attributes, or its features.
+Object could be a product, a service, individual, organization, an event or a topic.
+
+Direct vs Comparative Opinion
+Direct  - Direct opinion about an entity
+Comparative - Opinion is expressed by comparing an entity with another
+	- Comparative Opinion express opinion using comparative or superlative forms of advebs and adjectives
+
+Explicit vs Implicit Opinions
+Explicit opinion on a subject is expressed in a Subjective Sentences.
+Implicit opinion on a subject is expressed in an Objective Sentence. Example, Camera broke in 2 days.
+Metaphors can be included in implicit opinions which are most difficult sentences to analyze.
+
+Types of Sentiment Analysis
+	1. Fine-grained Sentiment Analysis ( very +ve to very -ve)
+	2. Emotion Detection - Detecting Happiness, Sadness, Frustration, Emotion detection system resort to lexicons which do not always accurately depict a meaning
+	3. Aspect based SA - A +ve/-ve opinion about the aspect of the camera.
+	4. Intent Analysis - What people want to do with text compared to what they are actually saying in the text.
+	5. Multilingual Sentiment Analysis
+
+Why Sentiment analysis is important?
+Scalability, Real-time analysis, Consistent Criteria
+
+Sentiment Analysis Algorithms
+	- Rule-based Approaches:
+		○ Set of rules to identify subjectivity,  polarity or subject of opinion
+		○ Variety of rules:
+			§ Classic NLP techniques like stemming, tokenization, part of speech tagging and parsing.
+			§ Lexicons (lists of words and expression)
+	- Automatic Approaches
+	
+	Classification Algorithms: 
+	Naïve Bayes, Logistic Regression, Support Vector Machines, or Neural Networks
+	- Hybrid Approaches - Best of both the worlds, Intuitive
